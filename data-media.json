@@ -1,0 +1,633 @@
+{
+  "schemaVersion": 2,
+  "gallery": [
+    {
+      "type": "scene",
+      "title": "追いかけっこは日常茶飯事",
+      "kind": "ユンとハオラン / 日常シーン",
+      "src": "assets/tenketsu/gallery/yun-chases-haoran.jpg",
+      "id": "yun-chases-haoran",
+      "worldId": "tenketsu",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "yun",
+        "haoran"
+      ],
+      "photographerId": null
+    },
+    {
+      "type": "scene",
+      "title": "天闕、作戦会議中",
+      "kind": "天闕の6人 / 日常シーン",
+      "src": "assets/tenketsu/gallery/six-in-meeting.jpg",
+      "id": "six-in-meeting",
+      "worldId": "tenketsu",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "qian",
+        "shuo",
+        "linhua",
+        "haoran",
+        "lei",
+        "yun"
+      ],
+      "photographerId": null
+    },
+    {
+      "type": "scene",
+      "title": "呼び出しを待つシュオ",
+      "kind": "シュオ / 日常シーン",
+      "src": "assets/tenketsu/gallery/shuo-on-standby.jpg",
+      "id": "shuo-on-standby",
+      "worldId": "tenketsu",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "shuo"
+      ],
+      "photographerId": null
+    },
+    {
+      "type": "scene",
+      "title": "数字に強いふたりの確認作業",
+      "kind": "チエンとレイ / 日常シーン",
+      "src": "assets/tenketsu/gallery/qian-and-lei-reviewing.jpg",
+      "id": "qian-and-lei-reviewing",
+      "worldId": "tenketsu",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "qian",
+        "lei"
+      ],
+      "photographerId": null
+    },
+    {
+      "type": "scene",
+      "title": "リンファのティータイム",
+      "kind": "リンファ / 日常シーン",
+      "src": "assets/tenketsu/gallery/linhua-tea-break.jpg",
+      "id": "linhua-tea-break",
+      "worldId": "tenketsu",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "linhua"
+      ],
+      "photographerId": null
+    },
+    {
+      "type": "scene",
+      "title": "訓練後、ひと休み",
+      "kind": "ユンとハオラン / 日常シーン",
+      "src": "assets/tenketsu/gallery/yun-covers-haoran.jpg",
+      "id": "yun-covers-haoran",
+      "worldId": "tenketsu",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "yun",
+        "haoran"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "leonhard-reading",
+      "worldId": "celestia",
+      "type": "scene",
+      "title": "木漏れ日の読書時間",
+      "kind": "レオンハルト / 日常シーン",
+      "src": "assets/celestia/gallery/leonhard-reading.jpg",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "leonhard"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "heinrich-equipment",
+      "worldId": "celestia",
+      "type": "scene",
+      "title": "任務の前の、静かな手入れ",
+      "kind": "ハインリヒ / 日常シーン",
+      "src": "assets/celestia/gallery/heinrich-equipment.jpg",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "heinrich"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "oscar-nap",
+      "worldId": "celestia",
+      "type": "scene",
+      "title": "木陰で少しだけ、ひと休み",
+      "kind": "オスカー / 日常シーン",
+      "src": "assets/celestia/gallery/oscar-nap.jpg",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "oscar"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "el-gifts",
+      "worldId": "celestia",
+      "type": "scene",
+      "title": "贈り物を選ぶ午後",
+      "kind": "エル / 日常シーン",
+      "src": "assets/celestia/gallery/el-gifts.jpg",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "el"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "rion-tea",
+      "worldId": "celestia",
+      "type": "scene",
+      "title": "庭園にお茶の香り",
+      "kind": "リオン / 日常シーン",
+      "src": "assets/celestia/gallery/rion-tea.jpg",
+      "tags": [
+        "daily"
+      ],
+      "photographerId": "el",
+      "characterIds": [
+        "rion"
+      ]
+    },
+    {
+      "id": "abel-flowers",
+      "worldId": "celestia",
+      "type": "scene",
+      "title": "花束に、ひとつ結び目を",
+      "kind": "アベル / 日常シーン",
+      "src": "assets/celestia/gallery/abel-flowers.jpg",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "abel"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "qian-lei-bargain",
+      "worldId": "tenketsu",
+      "type": "scene",
+      "title": "その儲け話、ちょっと待った",
+      "kind": "チエン・レイ / 日常シーン",
+      "src": "assets/tenketsu/gallery/qian-lei-bargain.jpg",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "qian",
+        "lei"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "shuo-haoran-groceries",
+      "worldId": "tenketsu",
+      "type": "scene",
+      "title": "力仕事なら、お任せ",
+      "kind": "シュオ・ハオラン / 日常シーン",
+      "src": "assets/tenketsu/gallery/shuo-haoran-groceries-v5.png",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "shuo",
+        "haoran"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "linhua-qian-gift",
+      "worldId": "tenketsu",
+      "type": "scene",
+      "title": "ボスへの贈り物は、予算内で？",
+      "kind": "リンファ・チエン / 日常シーン",
+      "src": "assets/tenketsu/gallery/linhua-qian-gift.jpg",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "linhua",
+        "qian"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "yun-haoran-shuo-snack",
+      "worldId": "tenketsu",
+      "type": "scene",
+      "title": "それ、本当にただのおやつ？",
+      "kind": "ユン・ハオラン・シュオ / 日常シーン",
+      "src": "assets/tenketsu/gallery/yun-haoran-shuo-snack.jpg",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "yun",
+        "haoran",
+        "shuo"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "linhua-lei-yun-game",
+      "worldId": "tenketsu",
+      "type": "scene",
+      "title": "笑顔のふたりと、負けず嫌い",
+      "kind": "リンファ・レイ・ユン / 日常シーン",
+      "src": "assets/tenketsu/gallery/linhua-lei-yun-game.jpg",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "linhua",
+        "lei",
+        "yun"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "heinrich-oscar-break",
+      "worldId": "celestia",
+      "type": "scene",
+      "title": "休憩時間は、もう終わり",
+      "kind": "ハインリヒ・オスカー / 日常シーン",
+      "src": "assets/celestia/gallery/heinrich-oscar-break.jpg",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "heinrich",
+        "oscar"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "leonhard-heinrich-evening",
+      "worldId": "celestia",
+      "type": "scene",
+      "title": "殿下、今夜はここまで",
+      "kind": "レオンハルト・ハインリヒ / 日常シーン",
+      "src": "assets/celestia/gallery/leonhard-heinrich-evening.jpg",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "leonhard",
+        "heinrich"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "el-rion-abel-comfort",
+      "worldId": "celestia",
+      "type": "scene",
+      "title": "大司教様の、反省会",
+      "kind": "エル・リオン・アベル / 日常シーン",
+      "src": "assets/celestia/gallery/el-rion-abel-comfort.jpg",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "el",
+        "rion",
+        "abel"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "rion-abel-florist",
+      "worldId": "celestia",
+      "type": "scene",
+      "title": "花選びにも、それぞれの思惑",
+      "kind": "リオン・アベル / 日常シーン",
+      "src": "assets/celestia/gallery/rion-abel-florist.jpg",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "rion",
+        "abel"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "leonhard-heinrich-oscar-tea",
+      "worldId": "celestia",
+      "type": "scene",
+      "title": "午後のお茶と、規律違反",
+      "kind": "レオンハルト・ハインリヒ・オスカー / 日常シーン",
+      "src": "assets/celestia/gallery/leonhard-heinrich-oscar-tea.jpg",
+      "tags": [
+        "daily"
+      ],
+      "characterIds": [
+        "leonhard",
+        "heinrich",
+        "oscar"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "aria-tea",
+      "type": "scene",
+      "worldId": "celestia",
+      "title": "私のための、甘い午後",
+      "kind": "アリアの撮った日常 / 小物・風景",
+      "src": "assets/celestia/gallery/aria-tea.png",
+      "tags": [
+        "daily",
+        "still-life"
+      ],
+      "photographerId": "aria",
+      "characterIds": []
+    },
+    {
+      "id": "aria-ribbons",
+      "type": "scene",
+      "worldId": "celestia",
+      "title": "今日のリボンはどれにする？",
+      "kind": "アリアの撮った日常 / 小物・風景",
+      "src": "assets/celestia/gallery/aria-ribbons.png",
+      "tags": [
+        "daily",
+        "still-life"
+      ],
+      "photographerId": "aria",
+      "characterIds": []
+    },
+    {
+      "id": "aria-garden",
+      "type": "scene",
+      "worldId": "celestia",
+      "title": "花束と、少しの寄り道",
+      "kind": "アリアの撮った日常 / 小物・風景",
+      "src": "assets/celestia/gallery/aria-garden.png",
+      "tags": [
+        "daily",
+        "still-life"
+      ],
+      "photographerId": "aria",
+      "characterIds": []
+    },
+    {
+      "id": "toybox-saku-ichigo",
+      "worldId": "toybox",
+      "type": "scene",
+      "title": "表紙の色は、まだ会議中",
+      "kind": "黒瀬 朔・花守 苺 / 日常シーン",
+      "src": "assets/toybox/gallery/saku-ichigo.png",
+      "tags": [
+        "daily",
+        "design"
+      ],
+      "characterIds": [
+        "saku",
+        "ichigo"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "toybox-saku-kiichi",
+      "worldId": "toybox",
+      "type": "scene",
+      "title": "試作品から、話が広がる",
+      "kind": "黒瀬 朔・綴木 稀逸 / 日常シーン",
+      "src": "assets/toybox/gallery/saku-kiichi.png",
+      "tags": [
+        "daily",
+        "creation"
+      ],
+      "characterIds": [
+        "saku",
+        "kiichi"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "toybox-saku-kyoya",
+      "worldId": "toybox",
+      "type": "scene",
+      "title": "原稿を閉じる、ひと息",
+      "kind": "黒瀬 朔・久世 京夜 / 日常シーン",
+      "src": "assets/toybox/gallery/saku-kyoya.png",
+      "tags": [
+        "daily",
+        "coffee"
+      ],
+      "characterIds": [
+        "saku",
+        "kyoya"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "toybox-ichigo-kiichi",
+      "worldId": "toybox",
+      "type": "scene",
+      "title": "かわいいに、ひらめきを足して",
+      "kind": "花守 苺・綴木 稀逸 / 日常シーン",
+      "src": "assets/toybox/gallery/ichigo-kiichi.png",
+      "tags": [
+        "daily",
+        "creation"
+      ],
+      "characterIds": [
+        "ichigo",
+        "kiichi"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "toybox-ichigo-kyoya",
+      "worldId": "toybox",
+      "type": "scene",
+      "title": "その赤、似合うと思って",
+      "kind": "花守 苺・久世 京夜 / 日常シーン",
+      "src": "assets/toybox/gallery/ichigo-kyoya.png",
+      "tags": [
+        "daily",
+        "design"
+      ],
+      "characterIds": [
+        "ichigo",
+        "kyoya"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "toybox-kiichi-kyoya",
+      "worldId": "toybox",
+      "type": "scene",
+      "title": "ひらめきにも、お昼ごはん",
+      "kind": "綴木 稀逸・久世 京夜 / 日常シーン",
+      "src": "assets/toybox/gallery/kiichi-kyoya.png",
+      "tags": [
+        "daily",
+        "meal"
+      ],
+      "characterIds": [
+        "kiichi",
+        "kyoya"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "witch-forest-arnaud-renard",
+      "worldId": "witch-forest",
+      "type": "scene",
+      "title": "湯気の向こうの、探り合い",
+      "kind": "アルノー・レナード / 日常シーン",
+      "src": "assets/witch-forest/gallery/arnaud-renard.png",
+      "tags": [
+        "daily",
+        "tea",
+        "side-story"
+      ],
+      "characterIds": [
+        "arnaud",
+        "renard"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "witch-forest-arnaud-kyle",
+      "worldId": "witch-forest",
+      "type": "scene",
+      "title": "籠いっぱいの、森の恵み",
+      "kind": "アルノー・カイル / 日常シーン",
+      "src": "assets/witch-forest/gallery/arnaud-kyle.png",
+      "tags": [
+        "daily",
+        "herbs",
+        "side-story"
+      ],
+      "characterIds": [
+        "arnaud",
+        "kyle"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "witch-forest-arnaud-nero",
+      "worldId": "witch-forest",
+      "type": "scene",
+      "title": "本の灯りを、横目で",
+      "kind": "アルノー・ネロ / IFの日常",
+      "src": "assets/witch-forest/gallery/arnaud-nero.png",
+      "tags": [
+        "daily",
+        "magic",
+        "side-story"
+      ],
+      "characterIds": [
+        "arnaud",
+        "nero"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "witch-forest-renard-kyle",
+      "worldId": "witch-forest",
+      "type": "scene",
+      "title": "庭園で、報告のつづき",
+      "kind": "レナード・カイル / 日常シーン",
+      "src": "assets/witch-forest/gallery/renard-kyle.png",
+      "tags": [
+        "daily",
+        "garden",
+        "side-story"
+      ],
+      "characterIds": [
+        "renard",
+        "kyle"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "witch-forest-renard-nero",
+      "worldId": "witch-forest",
+      "type": "scene",
+      "title": "冷めるお茶と、埋まらない距離",
+      "kind": "レナード・ネロ / IFの日常",
+      "src": "assets/witch-forest/gallery/renard-nero.png",
+      "tags": [
+        "daily",
+        "tea",
+        "side-story"
+      ],
+      "characterIds": [
+        "renard",
+        "nero"
+      ],
+      "photographerId": null
+    },
+    {
+      "id": "witch-forest-kyle-nero",
+      "worldId": "witch-forest",
+      "type": "scene",
+      "title": "差し出すより、そっと置いて",
+      "kind": "カイル・ネロ / IFの日常",
+      "src": "assets/witch-forest/gallery/kyle-nero.png",
+      "tags": [
+        "daily",
+        "meal",
+        "side-story"
+      ],
+      "characterIds": [
+        "kyle",
+        "nero"
+      ],
+      "photographerId": null
+    }
+  ],
+  "music": [
+    {
+      "title": "夜の余白",
+      "artist": "uyuyp",
+      "audio": "assets/tenketsu/music/yoru-no-yohaku.mp3",
+      "cover": "assets/tenketsu/music/yoru-no-yohaku-cover-v2.png",
+      "id": "yoru-no-yohaku",
+      "worldId": "tenketsu",
+      "tags": [
+        "theme-song"
+      ]
+    },
+    {
+      "id": "we-run-into-the-night",
+      "worldId": "tenketsu",
+      "title": "We Run Into the Night",
+      "artist": "",
+      "audio": "assets/tenketsu/music/we-run-into-the-night.mp3",
+      "cover": "mafiai/hero.png",
+      "tags": [
+        "theme-song"
+      ]
+    }
+  ]
+}

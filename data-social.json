@@ -1,0 +1,1214 @@
+{
+  "schemaVersion": 2,
+  "accounts": {
+    "qian": "収支はきっちり、距離は近め。ボスくんの頼みなら大歓迎。",
+    "shuo": "護衛。用があるなら連絡しろ。",
+    "linhua": "ボスの隣、予約済み。お茶と寄り道が好き。",
+    "haoran": "力仕事なら任せろ！ ボスの外出は俺もついてくぜ。",
+    "lei": "天闕の参謀。依頼は順番に。ボスはちゃんと休むこと。",
+    "yun": "天闕の医療担当。みんなの健康、ちゃんと見てるよ。",
+    "leonhard": "公務の合間に、本と静かな時間を。",
+    "heinrich": "規律を守り、備えを怠らない。",
+    "oscar": "息抜きも大事じゃん。楽しいことなら呼んで。",
+    "el": "教義と秩序を守る者。……ここでは、少しだけ息抜きを。",
+    "rion": "日々の小さな喜びを、お茶とともに。",
+    "abel": "穏やかな毎日と、少しの工夫を。",
+    "aria": "私のこと、ちゃんと見ていてね♡",
+    "saku": "構成・シナリオ担当。アイデアは、成立する形に。",
+    "ichigo": "デザインと広報。かわいいも、君の魅力も引き出したい。",
+    "kiichi": "イラストと漫画担当。きーくん、それ面白そう！",
+    "kyoya": "グッズとイベント担当。君の「作りたい」を形にしようか。",
+    "arnaud": "宮廷魔術師",
+    "renard": "エルシオン王国・国王",
+    "kyle": "エルシオン王国騎士",
+    "nero": "元ドレア王国第三王子／奴隷"
+  },
+  "posts": [
+    {
+      "id": "post-yun-chases-haoran",
+      "mediaId": "yun-chases-haoran",
+      "authorId": "yun",
+      "moment": "午前のひとこま",
+      "text": "ハオラン、待ってってば。まだ説明の途中だよ？\n逃げると余計に脈が上がっちゃうんだけどなぁ。",
+      "comments": [
+        {
+          "authorId": "haoran",
+          "text": "追いかけてくるからだろ！！ その手のやつ置けって！"
+        },
+        {
+          "authorId": "shuo",
+          "text": "廊下を走るな。ボスが通る。"
+        },
+        {
+          "authorId": "yun",
+          "text": "はーい。じゃあ続きは医務室でね。"
+        }
+      ],
+      "worldId": "tenketsu"
+    },
+    {
+      "id": "post-six-in-meeting",
+      "mediaId": "six-in-meeting",
+      "authorId": "lei",
+      "moment": "会議のあと",
+      "text": "今日の依頼、振り分け終わり。\nボスの外出に全員でついていく案は却下。街の仕事、誰がやるんだよ。",
+      "comments": [
+        {
+          "authorId": "haoran",
+          "text": "護衛は多いほうが安心じゃね？"
+        },
+        {
+          "authorId": "qian",
+          "text": "全員出動は人件費がねぇ。俺はボスくんと留守番で。"
+        },
+        {
+          "authorId": "shuo",
+          "text": "お前も仕事しろ。"
+        }
+      ],
+      "worldId": "tenketsu"
+    },
+    {
+      "id": "post-shuo-on-standby",
+      "mediaId": "shuo-on-standby",
+      "authorId": "shuo",
+      "moment": "待機中",
+      "text": "準備はできてる。\n出かけるなら声かけろ。ひとりで行くなよ。",
+      "comments": [
+        {
+          "authorId": "linhua",
+          "text": "俺も行く！ ボスとどこ行くの？"
+        },
+        {
+          "authorId": "shuo",
+          "text": "まだ決まってない。"
+        },
+        {
+          "authorId": "yun",
+          "text": "決まってないのに、もう待ってるんだ。"
+        }
+      ],
+      "worldId": "tenketsu"
+    },
+    {
+      "id": "post-qian-and-lei-reviewing",
+      "mediaId": "qian-and-lei-reviewing",
+      "authorId": "qian",
+      "moment": "帳簿の時間",
+      "text": "数字って正直だよねぇ。\n今月もきっちり合わせたし、ボスくんに褒めてもらう準備はできてる。",
+      "comments": [
+        {
+          "authorId": "lei",
+          "text": "その前にここの説明、ひとつお願いしていい？"
+        },
+        {
+          "authorId": "qian",
+          "text": "もちろん。説明料はお茶一杯でいいよ。"
+        }
+      ],
+      "worldId": "tenketsu"
+    },
+    {
+      "id": "post-linhua-tea-break",
+      "mediaId": "linhua-tea-break",
+      "authorId": "linhua",
+      "moment": "午後のお茶",
+      "text": "お茶いれたよ。ボスの分もあるから、こっち来て。\n今日はちょっとだけ、俺の隣で休憩しよ？",
+      "comments": [
+        {
+          "authorId": "qian",
+          "text": "俺の分は？"
+        },
+        {
+          "authorId": "linhua",
+          "text": "自分でいれて♡"
+        },
+        {
+          "authorId": "lei",
+          "text": "休憩が終わったら報告書ね。"
+        }
+      ],
+      "worldId": "tenketsu"
+    },
+    {
+      "id": "post-yun-covers-haoran",
+      "mediaId": "yun-covers-haoran",
+      "authorId": "yun",
+      "moment": "訓練のあと",
+      "text": "さっきまであんなに元気だったのに。\n今日は実験なし。ちゃんと休ませてあげる俺、優しいでしょ。",
+      "comments": [
+        {
+          "authorId": "haoran",
+          "text": "起きてから読んだ。今日はってなんだよ今日はって。"
+        },
+        {
+          "authorId": "yun",
+          "text": "毛布のお礼、まだ聞いてないなぁ。"
+        },
+        {
+          "authorId": "haoran",
+          "text": "……それはありがとな。"
+        }
+      ],
+      "worldId": "tenketsu"
+    },
+    {
+      "id": "post-qian-lei-bargain",
+      "mediaId": "qian-lei-bargain",
+      "authorId": "qian",
+      "moment": "仕事の合間",
+      "text": "いい話を見つけたと思ったら、参謀の確認が入りました。\n信用してよ。俺、数字には強いじゃん？",
+      "comments": [
+        {
+          "authorId": "lei",
+          "text": "数字は信用してるよ。だから条件も全部見せて。"
+        },
+        {
+          "authorId": "qian",
+          "text": "はいはい。抜かりないねぇ。"
+        }
+      ],
+      "worldId": "tenketsu"
+    },
+    {
+      "id": "post-shuo-haoran-groceries",
+      "mediaId": "shuo-haoran-groceries",
+      "authorId": "haoran",
+      "moment": "買い出し帰り",
+      "text": "買い出し完了！ このくらい余裕だって。\nボスは何も持たなくていいからな。力仕事なら全部俺に任せろ！",
+      "comments": [
+        {
+          "authorId": "shuo",
+          "text": "前見ろ。袋が引っかかる。"
+        },
+        {
+          "authorId": "haoran",
+          "text": "おっと、助かった！"
+        },
+        {
+          "authorId": "qian",
+          "text": "レシートも忘れずにねー。"
+        }
+      ],
+      "worldId": "tenketsu"
+    },
+    {
+      "id": "post-linhua-qian-gift",
+      "mediaId": "linhua-qian-gift",
+      "authorId": "linhua",
+      "moment": "寄り道",
+      "text": "ボスに似合いそうなの、見つけちゃった。\nどっちにしよう。喜んでくれるかな。",
+      "comments": [
+        {
+          "authorId": "qian",
+          "text": "その「両方」って顔やめて。予算って知ってる？"
+        },
+        {
+          "authorId": "linhua",
+          "text": "チエンなら何とかできるでしょ？"
+        },
+        {
+          "authorId": "qian",
+          "text": "……ボスくんのためって言われると弱いんだよねぇ。"
+        }
+      ],
+      "worldId": "tenketsu"
+    },
+    {
+      "id": "post-yun-haoran-shuo-snack",
+      "mediaId": "yun-haoran-shuo-snack",
+      "authorId": "yun",
+      "moment": "おやつの時間",
+      "text": "おやつ持ってきただけなのに、ふたりとも警戒しすぎじゃない？\n俺、まだ何も言ってないよ。",
+      "comments": [
+        {
+          "authorId": "haoran",
+          "text": "まだって言った！ 今まだって言ったよな！？"
+        },
+        {
+          "authorId": "shuo",
+          "text": "先に自分で食え。"
+        },
+        {
+          "authorId": "yun",
+          "text": "ふふ。仲いいね、ふたりとも。"
+        }
+      ],
+      "worldId": "tenketsu"
+    },
+    {
+      "id": "post-linhua-lei-yun-game",
+      "mediaId": "linhua-lei-yun-game",
+      "authorId": "linhua",
+      "moment": "夜更かし前",
+      "text": "もう一回。今のは練習。\nふたりとも笑ってないで、もう一回やろ？",
+      "comments": [
+        {
+          "authorId": "lei",
+          "text": "さっきもそれ言ってたよね。"
+        },
+        {
+          "authorId": "yun",
+          "text": "俺はいいよ。次は何を賭ける？"
+        },
+        {
+          "authorId": "linhua",
+          "text": "何も賭けない！ 普通に勝つから！"
+        }
+      ],
+      "worldId": "tenketsu"
+    },
+    {
+      "id": "post-leonhard-reading",
+      "worldId": "celestia",
+      "mediaId": "leonhard-reading",
+      "authorId": "leonhard",
+      "moment": "木漏れ日の下で",
+      "text": "少しだけ、続きを読もうと思ってね。\nこの静けさまで、頁に挟んで持ち帰れたらいいのだけれど。",
+      "comments": [
+        {
+          "authorId": "heinrich",
+          "text": "殿下、次のご予定まであと十分です。"
+        },
+        {
+          "authorId": "leonhard",
+          "text": "ありがとう。では、あと一頁だけ。"
+        }
+      ]
+    },
+    {
+      "id": "post-heinrich-equipment",
+      "worldId": "celestia",
+      "mediaId": "heinrich-equipment",
+      "authorId": "heinrich",
+      "moment": "任務の前",
+      "text": "装備の点検に、念のためという言葉はない。\n必要なことを、毎回行う。それだけだ。",
+      "comments": [
+        {
+          "authorId": "oscar",
+          "text": "俺の分もお願いしていい？"
+        },
+        {
+          "authorId": "heinrich",
+          "text": "自分で行え。不明な点なら教える。"
+        }
+      ]
+    },
+    {
+      "id": "post-oscar-nap",
+      "worldId": "celestia",
+      "mediaId": "oscar-nap",
+      "authorId": "oscar",
+      "moment": "木陰から",
+      "text": "ここ、いい風が来るんだよね。\n休む場所を探す才能なら、俺かなりあると思う。",
+      "comments": [
+        {
+          "authorId": "heinrich",
+          "text": "探していた。訓練場へ戻れ。"
+        },
+        {
+          "authorId": "oscar",
+          "text": "見つける才能もすごいじゃん。あと五分は？"
+        },
+        {
+          "authorId": "heinrich",
+          "text": "認めない。"
+        }
+      ]
+    },
+    {
+      "id": "post-el-gifts",
+      "worldId": "celestia",
+      "mediaId": "el-gifts",
+      "authorId": "el",
+      "moment": "午後の寄り道",
+      "text": "贈り物には、相手への配慮が必要である。\n……どちらが喜ばれると思う？",
+      "comments": [
+        {
+          "authorId": "rion",
+          "text": "お選びになったお気持ちも、きっと伝わりますよ。"
+        },
+        {
+          "authorId": "el",
+          "text": "（それで決められたら苦労しないのにぃ……）"
+        }
+      ]
+    },
+    {
+      "id": "post-rion-tea",
+      "worldId": "celestia",
+      "mediaId": "rion-tea",
+      "authorId": "rion",
+      "moment": "庭園にて",
+      "text": "お茶が入りました。\nお忙しい方も、一杯の間だけは肩の力を抜いてくださいね。",
+      "comments": [
+        {
+          "authorId": "abel",
+          "text": "それでは、お言葉に甘えて。"
+        },
+        {
+          "authorId": "el",
+          "text": "私にも一杯、頼む。"
+        }
+      ]
+    },
+    {
+      "id": "post-abel-flowers",
+      "worldId": "celestia",
+      "mediaId": "abel-flowers",
+      "authorId": "abel",
+      "moment": "花を束ねて",
+      "text": "結び目ひとつで、印象は変わるものですね。\n何気なく見えるくらいが、ちょうどいい。",
+      "comments": [
+        {
+          "authorId": "rion",
+          "text": "丁寧に仕上げられましたね。"
+        },
+        {
+          "authorId": "abel",
+          "text": "ええ。気づいてくださる方には、伝わるでしょう？"
+        }
+      ]
+    },
+    {
+      "id": "post-heinrich-oscar-break",
+      "worldId": "celestia",
+      "mediaId": "heinrich-oscar-break",
+      "authorId": "heinrich",
+      "moment": "休憩終了",
+      "text": "休憩時間は終了した。\n聞こえなかったとは言わせない。",
+      "comments": [
+        {
+          "authorId": "oscar",
+          "text": "聞こえてるって。そんな怖い顔しなくてもさ。"
+        },
+        {
+          "authorId": "heinrich",
+          "text": "ならば立て。"
+        }
+      ]
+    },
+    {
+      "id": "post-leonhard-heinrich-evening",
+      "worldId": "celestia",
+      "mediaId": "leonhard-heinrich-evening",
+      "authorId": "leonhard",
+      "moment": "灯りを落とす前",
+      "text": "今夜はここまで、と止められてしまった。\n残りは明日にしよう。君も、きちんと休んでくれ。",
+      "comments": [
+        {
+          "authorId": "heinrich",
+          "text": "承知しました。殿下もお休みください。"
+        },
+        {
+          "authorId": "leonhard",
+          "text": "私が眠るまで見張るつもりではないだろうね？"
+        }
+      ]
+    },
+    {
+      "id": "post-el-rion-abel-comfort",
+      "worldId": "celestia",
+      "mediaId": "el-rion-abel-comfort",
+      "authorId": "el",
+      "moment": "反省会のあと",
+      "text": "言葉を選ぶというのは、難しいものである。\n（もう少し優しく言いたかっただけなのに……）",
+      "comments": [
+        {
+          "authorId": "rion",
+          "text": "次にお話しするときに、少しずつ伝えてはいかがでしょう。"
+        },
+        {
+          "authorId": "abel",
+          "text": "まずはその眉間を緩めるところからですね。"
+        }
+      ]
+    },
+    {
+      "id": "post-rion-abel-florist",
+      "worldId": "celestia",
+      "mediaId": "rion-abel-florist",
+      "authorId": "rion",
+      "moment": "花屋にて",
+      "text": "同じ花でも、選ぶ人によって違う花束になるのですね。\nお話を聞きながら選ぶ時間も、楽しいものです。",
+      "comments": [
+        {
+          "authorId": "abel",
+          "text": "貴方の選ぶ花は、素直でよく似合いますね。"
+        },
+        {
+          "authorId": "rion",
+          "text": "ありがとうございます。貴方の花束も、とても印象的です。"
+        }
+      ]
+    },
+    {
+      "id": "post-leonhard-heinrich-oscar-tea",
+      "worldId": "celestia",
+      "mediaId": "leonhard-heinrich-oscar-tea",
+      "authorId": "oscar",
+      "moment": "午後のお茶",
+      "text": "お茶の時間くらい、もっと気楽でよくない？\n……って言ったら、隣からすごい視線。",
+      "comments": [
+        {
+          "authorId": "heinrich",
+          "text": "姿勢を正せ。"
+        },
+        {
+          "authorId": "leonhard",
+          "text": "今日は少しだけ、肩の力を抜いてもいいだろう。"
+        },
+        {
+          "authorId": "oscar",
+          "text": "ほら、殿下もこう言ってるし。"
+        }
+      ]
+    },
+    {
+      "id": "post-qian-linhua-qian-gift",
+      "worldId": "tenketsu",
+      "mediaId": "linhua-qian-gift",
+      "authorId": "qian",
+      "moment": "贈り物選び",
+      "text": "「ボスに似合う」で全部かごに入れないでくれる？\n……まあ、喜ぶ顔が見たいのは俺も同じだけど。",
+      "comments": [
+        {
+          "authorId": "linhua",
+          "text": "じゃあ両方で決まりだね♡"
+        },
+        {
+          "authorId": "qian",
+          "text": "予算の話、まだ終わってないんだけど？"
+        }
+      ]
+    },
+    {
+      "id": "post-shuo-shuo-haoran-groceries",
+      "worldId": "tenketsu",
+      "mediaId": "shuo-haoran-groceries",
+      "authorId": "shuo",
+      "moment": "買い出し帰り",
+      "text": "持てる量と、前が見える量は別だ。\nハオラン、角では止まれ。",
+      "comments": [
+        {
+          "authorId": "haoran",
+          "text": "分かってるって！ 声かけてくれりゃ止まるぜ。"
+        },
+        {
+          "authorId": "qian",
+          "text": "荷物より先にレシートを無くさないでね。"
+        }
+      ]
+    },
+    {
+      "id": "post-shuo-yun-haoran-shuo-snack",
+      "worldId": "tenketsu",
+      "mediaId": "yun-haoran-shuo-snack",
+      "authorId": "shuo",
+      "moment": "休憩室にて",
+      "text": "食う前に中身を確認する。\nこいつが持ってきた物なら、なおさらだ。",
+      "comments": [
+        {
+          "authorId": "yun",
+          "text": "俺のこと、よく見てくれてるんだね。"
+        },
+        {
+          "authorId": "shuo",
+          "text": "話をすり替えるな。"
+        }
+      ]
+    },
+    {
+      "id": "post-haoran-yun-chases-haoran",
+      "worldId": "tenketsu",
+      "mediaId": "yun-chases-haoran",
+      "authorId": "haoran",
+      "moment": "廊下で遭遇",
+      "text": "ちょっと待て！ 説明が終わる前に近づいてくんな！\n俺は今日どこもケガしてねぇぞ！？",
+      "comments": [
+        {
+          "authorId": "yun",
+          "text": "だから元気なときの数値が知りたいんだって。"
+        },
+        {
+          "authorId": "haoran",
+          "text": "その言い方がもう怪しいんだよ！"
+        }
+      ]
+    },
+    {
+      "id": "post-haoran-yun-covers-haoran",
+      "worldId": "tenketsu",
+      "mediaId": "yun-covers-haoran",
+      "authorId": "haoran",
+      "moment": "目が覚めたら",
+      "text": "訓練終わりに座ったら、そのまま寝ちまった。\n毛布かけてくれたやつ、ありがとな！",
+      "comments": [
+        {
+          "authorId": "yun",
+          "text": "俺だよ。よく眠れたみたいで何より。"
+        },
+        {
+          "authorId": "haoran",
+          "text": "おう！ ……今日は本当に何もしてねぇよな？"
+        }
+      ]
+    },
+    {
+      "id": "post-lei-qian-and-lei-reviewing",
+      "worldId": "tenketsu",
+      "mediaId": "qian-and-lei-reviewing",
+      "authorId": "lei",
+      "moment": "最終確認",
+      "text": "数字はきれいに揃ってる。さすがだね。\nじゃあ次は、この数字になるまでの話を聞こうか。",
+      "comments": [
+        {
+          "authorId": "qian",
+          "text": "そこまで込みで用意してるよ。俺の仕事、完璧じゃん？"
+        },
+        {
+          "authorId": "lei",
+          "text": "うん。その調子で次もよろしく。"
+        }
+      ]
+    },
+    {
+      "id": "post-lei-linhua-lei-yun-game",
+      "worldId": "tenketsu",
+      "mediaId": "linhua-lei-yun-game",
+      "authorId": "lei",
+      "moment": "仕事のあと",
+      "text": "「あと一回」が何回目か、数えるのをやめた。\n明日の仕事に響く前には終わろうね。",
+      "comments": [
+        {
+          "authorId": "linhua",
+          "text": "次勝ったら終わるから！"
+        },
+        {
+          "authorId": "yun",
+          "text": "それ、終わる時間が決まってないよね。"
+        }
+      ]
+    },
+    {
+      "id": "post-leonhard-leonhard-heinrich-oscar-tea",
+      "worldId": "celestia",
+      "mediaId": "leonhard-heinrich-oscar-tea",
+      "authorId": "leonhard",
+      "moment": "午後のひと息",
+      "text": "たまには、こうして同じ卓を囲むのもいいね。\nお茶が冷める前に、今日の話を聞かせてくれるかい。",
+      "comments": [
+        {
+          "authorId": "oscar",
+          "text": "訓練の話以外でもいい？"
+        },
+        {
+          "authorId": "heinrich",
+          "text": "殿下の前で余計なことを言うな。"
+        },
+        {
+          "authorId": "leonhard",
+          "text": "構わないよ。私も少し息抜きをしたい。"
+        }
+      ]
+    },
+    {
+      "id": "post-heinrich-leonhard-heinrich-evening",
+      "worldId": "celestia",
+      "mediaId": "leonhard-heinrich-evening",
+      "authorId": "heinrich",
+      "moment": "夜の執務室",
+      "text": "本日の執務はここまでです。\n明日に備えて休むことも、必要な務めかと。",
+      "comments": [
+        {
+          "authorId": "leonhard",
+          "text": "君には隠せないね。では、続きは明日に。"
+        },
+        {
+          "authorId": "heinrich",
+          "text": "承知しました。お休みなさいませ。"
+        }
+      ]
+    },
+    {
+      "id": "post-oscar-leonhard-heinrich-oscar-tea",
+      "worldId": "celestia",
+      "mediaId": "heinrich-oscar-break",
+      "authorId": "oscar",
+      "moment": "休憩の終わり",
+      "text": "休憩が終わる瞬間だけ、やけに正確に来るんだよね。\n俺が休んでる場所、そんなに分かりやすい？",
+      "comments": [
+        {
+          "authorId": "heinrich",
+          "text": "貴殿の行きそうな場所くらい把握している。"
+        },
+        {
+          "authorId": "oscar",
+          "text": "それ、ちょっと感心しちゃうな。"
+        }
+      ]
+    },
+    {
+      "id": "post-el-rion-tea",
+      "worldId": "celestia",
+      "mediaId": "rion-tea",
+      "authorId": "el",
+      "moment": "庭園の休息",
+      "text": "休息も、務めを果たすために必要なものである。\n……このお茶は、もう一杯いただこう。",
+      "comments": [
+        {
+          "authorId": "rion",
+          "text": "お気に召したようで何よりです。"
+        },
+        {
+          "authorId": "el",
+          "text": "（お菓子も、もう一つくらい……いいよね？）"
+        }
+      ]
+    },
+    {
+      "id": "post-rion-el-rion-abel-comfort",
+      "worldId": "celestia",
+      "mediaId": "el-rion-abel-comfort",
+      "authorId": "rion",
+      "moment": "お話を聞きながら",
+      "text": "うまく伝えられなかった日は、誰にでもあるものです。\n次の言葉を、ゆっくり考えましょう。",
+      "comments": [
+        {
+          "authorId": "el",
+          "text": "……そうだな。"
+        },
+        {
+          "authorId": "abel",
+          "text": "考えすぎて明日まで眉間に皺が残りませんように。"
+        }
+      ]
+    },
+    {
+      "id": "post-abel-rion-abel-florist",
+      "worldId": "celestia",
+      "mediaId": "rion-abel-florist",
+      "authorId": "abel",
+      "moment": "花選び",
+      "text": "花言葉を知らなくても、色と香りで伝わることはありますね。\nもちろん、知って選ぶ楽しみもありますが。",
+      "comments": [
+        {
+          "authorId": "rion",
+          "text": "どなたを思い浮かべて選ばれたのですか？"
+        },
+        {
+          "authorId": "abel",
+          "text": "それは、受け取る方だけのお楽しみです。"
+        }
+      ]
+    },
+    {
+      "id": "post-abel-el-rion-abel-comfort",
+      "worldId": "celestia",
+      "mediaId": "el-rion-abel-comfort",
+      "authorId": "abel",
+      "moment": "反省会の隅で",
+      "text": "厳しい言葉のあとは、優しいお茶を。\n言い方ひとつで済む話も、なかなか難しいものですね。",
+      "comments": [
+        {
+          "authorId": "el",
+          "text": "私への当てつけか？"
+        },
+        {
+          "authorId": "abel",
+          "text": "おや。一般的なお話ですよ。"
+        },
+        {
+          "authorId": "rion",
+          "text": "まずは、皆で一息つきましょう。"
+        }
+      ]
+    },
+    {
+      "id": "post-aria-aria-tea",
+      "worldId": "celestia",
+      "mediaId": "aria-tea",
+      "authorId": "aria",
+      "moment": "午後のお茶",
+      "text": "今日のお茶、私にぴったりでしょ？♡\nいちごもお花も可愛くて、どこから食べようか迷っちゃう。",
+      "comments": [
+        {
+          "authorId": "rion",
+          "text": "どうぞ温かいうちに召し上がってください。"
+        },
+        {
+          "authorId": "aria",
+          "text": "ありがとう♡ でも先に、もう一枚だけ撮らせて？"
+        }
+      ]
+    },
+    {
+      "id": "post-aria-aria-ribbons",
+      "worldId": "celestia",
+      "mediaId": "aria-ribbons",
+      "authorId": "aria",
+      "moment": "お出かけの準備",
+      "text": "どのリボンがいちばん似合うと思う？\nどれも私のためみたいで、一つだけなんて選べないよぉ♡",
+      "comments": [
+        {
+          "authorId": "abel",
+          "text": "本日のご用事に合わせて選ばれてはいかがですか。"
+        },
+        {
+          "authorId": "aria",
+          "text": "もちろん、一番目立つのにするつもり♡"
+        }
+      ]
+    },
+    {
+      "id": "post-aria-aria-garden",
+      "worldId": "celestia",
+      "mediaId": "aria-garden",
+      "authorId": "aria",
+      "moment": "庭園のお散歩",
+      "text": "可愛いお花を見つけたの♡\n次は私も一緒に写してもらおうかな。お花だけじゃ、寂しいでしょ？",
+      "comments": [
+        {
+          "authorId": "rion",
+          "text": "素敵な色合いですね。花瓶をご用意しましょうか。"
+        },
+        {
+          "authorId": "aria",
+          "text": "お願い♡ 一番よく見えるところに飾ってね。"
+        }
+      ]
+    },
+    {
+      "id": "post-toybox-saku-ichigo-saku",
+      "worldId": "toybox",
+      "mediaId": "toybox-saku-ichigo",
+      "authorId": "saku",
+      "moment": "配色相談",
+      "text": "表紙の候補がまた増えた。\n苺、選ぶための色見本だろ。増やしてどうする。",
+      "comments": [
+        {
+          "authorId": "ichigo",
+          "text": "迷う時間も楽しいでしょ？"
+        },
+        {
+          "authorId": "saku",
+          "text": "一案に絞る前に、並べて比べる。"
+        }
+      ]
+    },
+    {
+      "id": "post-toybox-saku-ichigo-ichigo",
+      "worldId": "toybox",
+      "mediaId": "toybox-saku-ichigo",
+      "authorId": "ichigo",
+      "moment": "配色相談",
+      "text": "朔の顔が「また増えた」って言ってる。\nでもこのピンク、捨てがたくない？",
+      "comments": [
+        {
+          "authorId": "saku",
+          "text": "一案に絞る前に、並べて比べる。"
+        },
+        {
+          "authorId": "ichigo",
+          "text": "迷う時間も楽しいでしょ？"
+        }
+      ]
+    },
+    {
+      "id": "post-toybox-saku-kiichi-saku",
+      "worldId": "toybox",
+      "mediaId": "toybox-saku-kiichi",
+      "authorId": "saku",
+      "moment": "作業部屋",
+      "text": "小さな試作品のはずが、設定までついてきた。\n動く仕組みを先に確認するぞ。",
+      "comments": [
+        {
+          "authorId": "kiichi",
+          "text": "メモした！ あと三つ思いついたー。"
+        },
+        {
+          "authorId": "saku",
+          "text": "その追加設定は、いったんメモにしておけ。"
+        }
+      ]
+    },
+    {
+      "id": "post-toybox-saku-kiichi-kiichi",
+      "worldId": "toybox",
+      "mediaId": "toybox-saku-kiichi",
+      "authorId": "kiichi",
+      "moment": "作業部屋",
+      "text": "きーくんの新作、見てー。\nここが動くならさ、物語のほうも動かしたくならない？",
+      "comments": [
+        {
+          "authorId": "saku",
+          "text": "その追加設定は、いったんメモにしておけ。"
+        },
+        {
+          "authorId": "kiichi",
+          "text": "メモした！ あと三つ思いついたー。"
+        }
+      ]
+    },
+    {
+      "id": "post-toybox-saku-kyoya-saku",
+      "worldId": "toybox",
+      "mediaId": "toybox-saku-kyoya",
+      "authorId": "saku",
+      "moment": "夜の休憩",
+      "text": "京夜にコーヒーを渡されて、ようやく手を止めた。\n続きは飲み終わってから。",
+      "comments": [
+        {
+          "authorId": "kyoya",
+          "text": "うん。ちゃんと飲み終わるまでね。"
+        },
+        {
+          "authorId": "saku",
+          "text": "休憩する。そんなに見張らなくていい。"
+        }
+      ]
+    },
+    {
+      "id": "post-toybox-saku-kyoya-kyoya",
+      "worldId": "toybox",
+      "mediaId": "toybox-saku-kyoya",
+      "authorId": "kyoya",
+      "moment": "夜の休憩",
+      "text": "原稿を閉じた朔を確保。\n休憩まで予定に入れておかないと、忘れてしまうね。",
+      "comments": [
+        {
+          "authorId": "saku",
+          "text": "休憩する。そんなに見張らなくていい。"
+        },
+        {
+          "authorId": "kyoya",
+          "text": "うん。ちゃんと飲み終わるまでね。"
+        }
+      ]
+    },
+    {
+      "id": "post-toybox-ichigo-kiichi-ichigo",
+      "worldId": "toybox",
+      "mediaId": "toybox-ichigo-kiichi",
+      "authorId": "ichigo",
+      "moment": "試作の午後",
+      "text": "稀逸の試作品に、ちょっとおめかし。\nかわいい方向に進んでたはずなんだけど、また何か思いついた顔してる。",
+      "comments": [
+        {
+          "authorId": "kiichi",
+          "text": "じゃあ二人組！ いや三人でもよくない？"
+        },
+        {
+          "authorId": "ichigo",
+          "text": "まずこの子を仕上げよ？ 相棒の色は考えてあげる。"
+        }
+      ]
+    },
+    {
+      "id": "post-toybox-ichigo-kiichi-kiichi",
+      "worldId": "toybox",
+      "mediaId": "toybox-ichigo-kiichi",
+      "authorId": "kiichi",
+      "moment": "試作の午後",
+      "text": "リボンつけたら急にキャラが立った！\nねえ、こいつの相棒も作っていいー？",
+      "comments": [
+        {
+          "authorId": "ichigo",
+          "text": "まずこの子を仕上げよ？ 相棒の色は考えてあげる。"
+        },
+        {
+          "authorId": "kiichi",
+          "text": "じゃあ二人組！ いや三人でもよくない？"
+        }
+      ]
+    },
+    {
+      "id": "post-toybox-ichigo-kyoya-ichigo",
+      "worldId": "toybox",
+      "mediaId": "toybox-ichigo-kyoya",
+      "authorId": "ichigo",
+      "moment": "色合わせ",
+      "text": "京夜って着せる側も楽しいんだよね。\n似合うのが分かってる顔するから、ちょっと悔しいけど。",
+      "comments": [
+        {
+          "authorId": "kyoya",
+          "text": "どうぞ。君が納得するまで付き合うよ。"
+        },
+        {
+          "authorId": "ichigo",
+          "text": "まだ帰さないよ。もう一色だけ。"
+        }
+      ]
+    },
+    {
+      "id": "post-toybox-ichigo-kyoya-kyoya",
+      "worldId": "toybox",
+      "mediaId": "toybox-ichigo-kyoya",
+      "authorId": "kyoya",
+      "moment": "色合わせ",
+      "text": "苺の色合わせに付き合う午後。\n次の候補まで用意されているあたり、まだ終わらなさそうだね。",
+      "comments": [
+        {
+          "authorId": "ichigo",
+          "text": "まだ帰さないよ。もう一色だけ。"
+        },
+        {
+          "authorId": "kyoya",
+          "text": "どうぞ。君が納得するまで付き合うよ。"
+        }
+      ]
+    },
+    {
+      "id": "post-toybox-kiichi-kyoya-kiichi",
+      "worldId": "toybox",
+      "mediaId": "toybox-kiichi-kyoya",
+      "authorId": "kiichi",
+      "moment": "遅めのお昼",
+      "text": "あと一本線引いたら食べるー、って言った気がする。\n京夜が皿ごと来た。逃げ道ない。",
+      "comments": [
+        {
+          "authorId": "kyoya",
+          "text": "よかった。紙にこぼさないようにね。"
+        },
+        {
+          "authorId": "kiichi",
+          "text": "いま食べてる！ おいしい！"
+        }
+      ]
+    },
+    {
+      "id": "post-toybox-kiichi-kyoya-kyoya",
+      "worldId": "toybox",
+      "mediaId": "toybox-kiichi-kyoya",
+      "authorId": "kyoya",
+      "moment": "遅めのお昼",
+      "text": "絵の続きも大事だけれど、お昼も大事。\n稀逸が手を伸ばせるところまで運んでおいたよ。",
+      "comments": [
+        {
+          "authorId": "kiichi",
+          "text": "いま食べてる！ おいしい！"
+        },
+        {
+          "authorId": "kyoya",
+          "text": "よかった。紙にこぼさないようにね。"
+        }
+      ]
+    },
+    {
+      "id": "post-witch-forest-arnaud-renard-arnaud",
+      "worldId": "witch-forest",
+      "mediaId": "witch-forest-arnaud-renard",
+      "authorId": "arnaud",
+      "moment": "番外・書斎の休憩",
+      "text": "茶が冷める前に用件を言えばいいだろ。\nそんなに楽しそうにこちらを見るな。",
+      "comments": [
+        {
+          "authorId": "renard",
+          "text": "分かったよ。せめて一杯、付き合ってくれるだろう？"
+        },
+        {
+          "authorId": "arnaud",
+          "text": "話が済んだら僕は戻るよ。"
+        }
+      ]
+    },
+    {
+      "id": "post-witch-forest-arnaud-renard-renard",
+      "worldId": "witch-forest",
+      "mediaId": "witch-forest-arnaud-renard",
+      "authorId": "renard",
+      "moment": "番外・書斎の休憩",
+      "text": "書斎で短い休憩を。\n向かいの彼は、休憩にも理由が必要らしい。",
+      "comments": [
+        {
+          "authorId": "arnaud",
+          "text": "話が済んだら僕は戻るよ。"
+        },
+        {
+          "authorId": "renard",
+          "text": "分かったよ。せめて一杯、付き合ってくれるだろう？"
+        }
+      ]
+    },
+    {
+      "id": "post-witch-forest-arnaud-kyle-arnaud",
+      "worldId": "witch-forest",
+      "mediaId": "witch-forest-arnaud-kyle",
+      "authorId": "arnaud",
+      "moment": "番外・森の小屋の前",
+      "text": "似た葉を一緒にするな。\n使う前に分ける。籠はそこへ置いて。",
+      "comments": [
+        {
+          "authorId": "kyle",
+          "text": "裏か。分かった、もう一度見てみる。"
+        },
+        {
+          "authorId": "arnaud",
+          "text": "形だけじゃない。葉の裏も見ればいい。"
+        }
+      ]
+    },
+    {
+      "id": "post-witch-forest-arnaud-kyle-kyle",
+      "worldId": "witch-forest",
+      "mediaId": "witch-forest-arnaud-kyle",
+      "authorId": "kyle",
+      "moment": "番外・森の小屋の前",
+      "text": "摘んできた葉、思ったより見分けが難しい。\nちゃんと覚えれば、次はもっと手伝えるだろ？",
+      "comments": [
+        {
+          "authorId": "arnaud",
+          "text": "形だけじゃない。葉の裏も見ればいい。"
+        },
+        {
+          "authorId": "kyle",
+          "text": "裏か。分かった、もう一度見てみる。"
+        }
+      ]
+    },
+    {
+      "id": "post-witch-forest-arnaud-nero-arnaud",
+      "worldId": "witch-forest",
+      "mediaId": "witch-forest-arnaud-nero",
+      "authorId": "arnaud",
+      "moment": "IFの日常・雨宿り",
+      "text": "雨が止むまで読んでいるだけだよ。\n灯りが気になるなら、そう言えばいい。",
+      "comments": [
+        {
+          "authorId": "nero",
+          "text": "うるさい。本でも読んでいろ。"
+        },
+        {
+          "authorId": "arnaud",
+          "text": "聞かれてもいないのに否定するんだね。"
+        }
+      ]
+    },
+    {
+      "id": "post-witch-forest-arnaud-nero-nero",
+      "worldId": "witch-forest",
+      "mediaId": "witch-forest-arnaud-nero",
+      "authorId": "nero",
+      "moment": "IFの日常・雨宿り",
+      "text": "あんな小さな光を、わざわざ本の上に。\n……別に、見入っていたわけじゃない。",
+      "comments": [
+        {
+          "authorId": "arnaud",
+          "text": "聞かれてもいないのに否定するんだね。"
+        },
+        {
+          "authorId": "nero",
+          "text": "うるさい。本でも読んでいろ。"
+        }
+      ]
+    },
+    {
+      "id": "post-witch-forest-renard-kyle-renard",
+      "worldId": "witch-forest",
+      "mediaId": "witch-forest-renard-kyle",
+      "authorId": "renard",
+      "moment": "番外・庭園の午後",
+      "text": "庭園で報告を聞くことにしたよ。\n彼は休憩中も、なかなか真面目だね。",
+      "comments": [
+        {
+          "authorId": "kyle",
+          "text": "ありがとうございます。では、少しだけ失礼します。"
+        },
+        {
+          "authorId": "renard",
+          "text": "座っても話は聞けるよ。"
+        }
+      ]
+    },
+    {
+      "id": "post-witch-forest-renard-kyle-kyle",
+      "worldId": "witch-forest",
+      "mediaId": "witch-forest-renard-kyle",
+      "authorId": "kyle",
+      "moment": "番外・庭園の午後",
+      "text": "報告しようとしたら、まず休むようにって。\nこの籠を置いたら、少しだけ。",
+      "comments": [
+        {
+          "authorId": "renard",
+          "text": "座っても話は聞けるよ。"
+        },
+        {
+          "authorId": "kyle",
+          "text": "ありがとうございます。では、少しだけ失礼します。"
+        }
+      ]
+    },
+    {
+      "id": "post-witch-forest-renard-nero-renard",
+      "worldId": "witch-forest",
+      "mediaId": "witch-forest-renard-nero",
+      "authorId": "renard",
+      "moment": "IFの日常・中庭",
+      "text": "お茶を用意した。それだけだよ。\n手を伸ばすかどうかは、彼が決めればいい。",
+      "comments": [
+        {
+          "authorId": "nero",
+          "text": "言われなくてもそうする。"
+        },
+        {
+          "authorId": "renard",
+          "text": "話したくなければ、黙っていて構わないよ。"
+        }
+      ]
+    },
+    {
+      "id": "post-witch-forest-renard-nero-nero",
+      "worldId": "witch-forest",
+      "mediaId": "witch-forest-renard-nero",
+      "authorId": "nero",
+      "moment": "IFの日常・中庭",
+      "text": "向かいに座ったからといって、話すことがあるとは限らない。\n茶も、まだ要らない。",
+      "comments": [
+        {
+          "authorId": "renard",
+          "text": "話したくなければ、黙っていて構わないよ。"
+        },
+        {
+          "authorId": "nero",
+          "text": "言われなくてもそうする。"
+        }
+      ]
+    },
+    {
+      "id": "post-witch-forest-kyle-nero-kyle",
+      "worldId": "witch-forest",
+      "mediaId": "witch-forest-kyle-nero",
+      "authorId": "kyle",
+      "moment": "IFの日常・朝の中庭",
+      "text": "パンはここに置いておくよ。\n今いらなくても、あとで腹が減るかもしれないだろ。",
+      "comments": [
+        {
+          "authorId": "nero",
+          "text": "分かっている。いつまでも見ているな。"
+        },
+        {
+          "authorId": "kyle",
+          "text": "食べるかは、お前が決めていいんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "post-witch-forest-kyle-nero-nero",
+      "worldId": "witch-forest",
+      "mediaId": "witch-forest-kyle-nero",
+      "authorId": "nero",
+      "moment": "IFの日常・朝の中庭",
+      "text": "頼んでもいないのに置いていった。\n……無駄にするのも、気に入らないだけだ。",
+      "comments": [
+        {
+          "authorId": "kyle",
+          "text": "食べるかは、お前が決めていいんだよ。"
+        },
+        {
+          "authorId": "nero",
+          "text": "分かっている。いつまでも見ているな。"
+        }
+      ]
+    }
+  ]
+}

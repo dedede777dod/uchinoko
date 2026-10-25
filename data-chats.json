@@ -1,0 +1,566 @@
+{
+  "schemaVersion": 1,
+  "rooms": [
+    {
+      "id": "tenketsu-dinner",
+      "worldId": "tenketsu",
+      "title": "天闕｜今日の連絡",
+      "subtitle": "夕食前、買い出し班が帰ってくるまで。",
+      "memberIds": [
+        "qian",
+        "shuo",
+        "linhua",
+        "haoran",
+        "lei",
+        "yun"
+      ],
+      "kind": "group",
+      "messages": [
+        {
+          "id": "tenketsu-dinner-1",
+          "authorId": "lei",
+          "text": "今日の連絡。夕食は十九時。買い出し班、進み具合は？",
+          "time": "14:00"
+        },
+        {
+          "id": "tenketsu-dinner-2",
+          "authorId": "haoran",
+          "text": "任せろ！ 箱ごと持って帰る！",
+          "time": "14:01"
+        },
+        {
+          "id": "tenketsu-dinner-3",
+          "authorId": "qian",
+          "text": "待って。箱「ごと」って何箱？",
+          "time": "14:02"
+        },
+        {
+          "id": "tenketsu-dinner-4",
+          "authorId": "shuo",
+          "text": "三箱。こいつが増やした。",
+          "time": "14:03",
+          "mediaId": "shuo-haoran-groceries"
+        },
+        {
+          "id": "tenketsu-dinner-5",
+          "authorId": "haoran",
+          "text": "安かったんだって！",
+          "time": "14:04"
+        },
+        {
+          "id": "tenketsu-dinner-6",
+          "authorId": "qian",
+          "text": "安くても食べ切れなきゃ赤字じゃん。レシート、捨てないでね",
+          "time": "14:05"
+        },
+        {
+          "id": "tenketsu-dinner-7",
+          "authorId": "linhua",
+          "text": "果物ある？ ボスのお茶に添えたいな",
+          "time": "14:06"
+        },
+        {
+          "id": "tenketsu-dinner-8",
+          "authorId": "haoran",
+          "text": "ある！ つぶれないように一番上にした！",
+          "time": "14:07"
+        },
+        {
+          "id": "tenketsu-dinner-9",
+          "authorId": "yun",
+          "text": "いいねぇ。じゃあハオラン、帰ったら俺のところにも寄ってね",
+          "time": "14:08"
+        },
+        {
+          "id": "tenketsu-dinner-10",
+          "authorId": "haoran",
+          "text": "なんで！？ 俺なんもしてねえぞ！？",
+          "time": "14:09"
+        },
+        {
+          "id": "tenketsu-dinner-11",
+          "authorId": "yun",
+          "text": "重いもの運んだあとの筋肉って、気になるじゃん？",
+          "time": "14:10"
+        },
+        {
+          "id": "tenketsu-dinner-12",
+          "authorId": "shuo",
+          "text": "寄り道するな。帰る。",
+          "time": "14:11"
+        },
+        {
+          "id": "tenketsu-dinner-13",
+          "authorId": "lei",
+          "text": "検査の予定は入ってないよ、ユン。まず荷物を片づけようか",
+          "time": "14:12"
+        },
+        {
+          "id": "tenketsu-dinner-14",
+          "authorId": "qian",
+          "text": "よし、全員そろったら精算会ね。ボスくんのおやつ代は別枠で♡",
+          "time": "14:13"
+        }
+      ]
+    },
+    {
+      "id": "tenketsu-tea",
+      "worldId": "tenketsu",
+      "title": "休憩室のすみっこ",
+      "subtitle": "お茶一杯にも、予算と席順。",
+      "memberIds": [
+        "linhua",
+        "qian",
+        "lei"
+      ],
+      "kind": "group",
+      "messages": [
+        {
+          "id": "tenketsu-tea-1",
+          "authorId": "linhua",
+          "text": "新しいお茶、開けてもいいかな",
+          "time": "14:00"
+        },
+        {
+          "id": "tenketsu-tea-2",
+          "authorId": "qian",
+          "text": "値札を見てから答えていい？",
+          "time": "14:01"
+        },
+        {
+          "id": "tenketsu-tea-3",
+          "authorId": "linhua",
+          "text": "もうお湯わかしてるよ",
+          "time": "14:02"
+        },
+        {
+          "id": "tenketsu-tea-4",
+          "authorId": "lei",
+          "text": "質問の形をした報告だね",
+          "time": "14:03"
+        },
+        {
+          "id": "tenketsu-tea-5",
+          "authorId": "linhua",
+          "text": "チエンにも淹れるから。ね？",
+          "time": "14:04",
+          "mediaId": "linhua-qian-gift"
+        },
+        {
+          "id": "tenketsu-tea-6",
+          "authorId": "qian",
+          "text": "そういう交渉、俺に効くと思ってる？",
+          "time": "14:05"
+        },
+        {
+          "id": "tenketsu-tea-7",
+          "authorId": "linhua",
+          "text": "効かないの？ お菓子もあるよ",
+          "time": "14:06"
+        },
+        {
+          "id": "tenketsu-tea-8",
+          "authorId": "qian",
+          "text": "……一杯いくら換算になるかだけ確認させて",
+          "time": "14:07"
+        },
+        {
+          "id": "tenketsu-tea-9",
+          "authorId": "lei",
+          "text": "計算している間に冷めるよ。僕の分もお願い",
+          "time": "14:08"
+        },
+        {
+          "id": "tenketsu-tea-10",
+          "authorId": "linhua",
+          "text": "はーい。ボスの隣は空けておいてね",
+          "time": "14:09"
+        },
+        {
+          "id": "tenketsu-tea-11",
+          "authorId": "qian",
+          "text": "そこだけは交渉の余地なしなんだ",
+          "time": "14:10"
+        },
+        {
+          "id": "tenketsu-tea-12",
+          "authorId": "linhua",
+          "text": "うん、そこだけはね",
+          "time": "14:11"
+        }
+      ]
+    },
+    {
+      "id": "yun-haoran-dm",
+      "worldId": "tenketsu",
+      "title": "ユン × ハオラン",
+      "subtitle": "「ちょっとだけ」が信用されない。",
+      "memberIds": [
+        "yun",
+        "haoran"
+      ],
+      "kind": "direct",
+      "messages": [
+        {
+          "id": "yun-haoran-dm-1",
+          "authorId": "yun",
+          "text": "ハオラン、今どこ？",
+          "time": "14:00"
+        },
+        {
+          "id": "yun-haoran-dm-2",
+          "authorId": "haoran",
+          "text": "先に用件言え",
+          "time": "14:01"
+        },
+        {
+          "id": "yun-haoran-dm-3",
+          "authorId": "yun",
+          "text": "冷たいなぁ。ちょっと顔が見たくて",
+          "time": "14:02"
+        },
+        {
+          "id": "yun-haoran-dm-4",
+          "authorId": "haoran",
+          "text": "手に何持ってる？",
+          "time": "14:03"
+        },
+        {
+          "id": "yun-haoran-dm-5",
+          "authorId": "yun",
+          "text": "何も。今は文字打ってるからね",
+          "time": "14:04"
+        },
+        {
+          "id": "yun-haoran-dm-6",
+          "authorId": "haoran",
+          "text": "今はって言ったな！？",
+          "time": "14:05"
+        },
+        {
+          "id": "yun-haoran-dm-7",
+          "authorId": "yun",
+          "text": "ちゃんと読んでる。えらいねぇ",
+          "time": "14:06"
+        },
+        {
+          "id": "yun-haoran-dm-8",
+          "authorId": "haoran",
+          "text": "褒めんな！ 今日は走らねえからな",
+          "time": "14:07"
+        },
+        {
+          "id": "yun-haoran-dm-9",
+          "authorId": "yun",
+          "text": "じゃあ歩いて来てよ。お茶もあるよ",
+          "time": "14:08"
+        },
+        {
+          "id": "yun-haoran-dm-10",
+          "authorId": "haoran",
+          "text": "普通のお茶だろうな",
+          "time": "14:09"
+        },
+        {
+          "id": "yun-haoran-dm-11",
+          "authorId": "yun",
+          "text": "リンファが淹れたやつだよ",
+          "time": "14:10"
+        },
+        {
+          "id": "yun-haoran-dm-12",
+          "authorId": "haoran",
+          "text": "……それなら行く。カップは俺が選ぶ",
+          "time": "14:11"
+        },
+        {
+          "id": "yun-haoran-dm-13",
+          "authorId": "yun",
+          "text": "うん。待ってるね",
+          "time": "14:12"
+        }
+      ]
+    },
+    {
+      "id": "celestia-afternoon",
+      "worldId": "celestia",
+      "title": "午後の連絡帳",
+      "subtitle": "王宮と神殿の、少しだけ気の抜けた連絡。",
+      "memberIds": [
+        "leonhard",
+        "heinrich",
+        "oscar",
+        "el",
+        "rion",
+        "abel",
+        "aria"
+      ],
+      "kind": "group",
+      "messages": [
+        {
+          "id": "celestia-afternoon-1",
+          "authorId": "rion",
+          "text": "皆様、午後のお茶のご用意ができました。お時間のある方はどうぞ",
+          "time": "14:00"
+        },
+        {
+          "id": "celestia-afternoon-2",
+          "authorId": "aria",
+          "text": "私の席、お花がよく見えるところにしてほしいな♡",
+          "time": "14:01"
+        },
+        {
+          "id": "celestia-afternoon-3",
+          "authorId": "heinrich",
+          "text": "通路を塞がない位置に配置する",
+          "time": "14:02"
+        },
+        {
+          "id": "celestia-afternoon-4",
+          "authorId": "oscar",
+          "text": "花より避難経路。さすがだよね",
+          "time": "14:03"
+        },
+        {
+          "id": "celestia-afternoon-5",
+          "authorId": "leonhard",
+          "text": "安全も眺めも、両立できるだろう。私は書類を片づけてから向かうよ",
+          "time": "14:04"
+        },
+        {
+          "id": "celestia-afternoon-6",
+          "authorId": "el",
+          "text": "静穏を保つのであれば、異論はない",
+          "time": "14:05"
+        },
+        {
+          "id": "celestia-afternoon-7",
+          "authorId": "abel",
+          "text": "ではオスカーさんのお席は、騎士殿からよく見える場所ですね",
+          "time": "14:06"
+        },
+        {
+          "id": "celestia-afternoon-8",
+          "authorId": "oscar",
+          "text": "俺だけ監督付きじゃん",
+          "time": "14:07"
+        },
+        {
+          "id": "celestia-afternoon-9",
+          "authorId": "aria",
+          "text": "ねえ、お菓子も可愛く並べてもらえる？ 写真を撮りたいの♡",
+          "time": "14:08",
+          "mediaId": "aria-tea"
+        },
+        {
+          "id": "celestia-afternoon-10",
+          "authorId": "rion",
+          "text": "承知いたしました。お茶が冷める前に召し上がってくださいね",
+          "time": "14:09"
+        },
+        {
+          "id": "celestia-afternoon-11",
+          "authorId": "heinrich",
+          "text": "オスカー、移動前に報告書を提出せよ",
+          "time": "14:10"
+        },
+        {
+          "id": "celestia-afternoon-12",
+          "authorId": "oscar",
+          "text": "今ちょうどその話をしようと思ってた",
+          "time": "14:11"
+        },
+        {
+          "id": "celestia-afternoon-13",
+          "authorId": "leonhard",
+          "text": "では、お茶の席で内容を聞かせてもらおうか",
+          "time": "14:12"
+        },
+        {
+          "id": "celestia-afternoon-14",
+          "authorId": "el",
+          "text": "……茶菓子の数は、足りているのだろうな",
+          "time": "14:13"
+        },
+        {
+          "id": "celestia-afternoon-15",
+          "authorId": "abel",
+          "text": "ご安心を。皆様の分を残してありますよ",
+          "time": "14:14"
+        }
+      ]
+    },
+    {
+      "id": "temple-break",
+      "worldId": "celestia",
+      "title": "神殿の休憩室",
+      "subtitle": "公務が終わるまで、あと一杯。",
+      "memberIds": [
+        "el",
+        "rion",
+        "abel"
+      ],
+      "kind": "group",
+      "messages": [
+        {
+          "id": "temple-break-1",
+          "authorId": "rion",
+          "text": "お茶を淹れ直しますが、同じものがお好みでしょうか",
+          "time": "14:00",
+          "mediaId": "rion-tea"
+        },
+        {
+          "id": "temple-break-2",
+          "authorId": "el",
+          "text": "同じものでよい。業務を中断させるつもりはない",
+          "time": "14:01"
+        },
+        {
+          "id": "temple-break-3",
+          "authorId": "abel",
+          "text": "休憩も業務のうちです。書類は私がお預かりしますね",
+          "time": "14:02"
+        },
+        {
+          "id": "temple-break-4",
+          "authorId": "el",
+          "text": "まだ署名が残っている",
+          "time": "14:03"
+        },
+        {
+          "id": "temple-break-5",
+          "authorId": "rion",
+          "text": "急ぎの分は、先ほど確認が済んでおります",
+          "time": "14:04"
+        },
+        {
+          "id": "temple-break-6",
+          "authorId": "el",
+          "text": "……そうか",
+          "time": "14:05"
+        },
+        {
+          "id": "temple-break-7",
+          "authorId": "abel",
+          "text": "お菓子を見ながら難しい顔をされると、こちらまで緊張してしまいますね",
+          "time": "14:06"
+        },
+        {
+          "id": "temple-break-8",
+          "authorId": "el",
+          "text": "見てなどいない",
+          "time": "14:07"
+        },
+        {
+          "id": "temple-break-9",
+          "authorId": "rion",
+          "text": "では、手の届くところへ置いておきますね",
+          "time": "14:08"
+        },
+        {
+          "id": "temple-break-10",
+          "authorId": "el",
+          "text": "配慮には感謝する",
+          "time": "14:09"
+        },
+        {
+          "id": "temple-break-11",
+          "authorId": "abel",
+          "text": "ええ。あとで皿の数だけ確認しておきます",
+          "time": "14:10"
+        },
+        {
+          "id": "temple-break-12",
+          "authorId": "el",
+          "text": "余計な確認は必要ない",
+          "time": "14:11"
+        }
+      ]
+    },
+    {
+      "id": "knights-dm",
+      "worldId": "celestia",
+      "title": "ハインリヒ × オスカー",
+      "subtitle": "休憩時間の定義について。",
+      "memberIds": [
+        "heinrich",
+        "oscar"
+      ],
+      "kind": "direct",
+      "messages": [
+        {
+          "id": "knights-dm-1",
+          "authorId": "heinrich",
+          "text": "訓練場に姿がない。所在を報告せよ",
+          "time": "14:00"
+        },
+        {
+          "id": "knights-dm-2",
+          "authorId": "oscar",
+          "text": "日陰。風が気持ちいいよ",
+          "time": "14:01"
+        },
+        {
+          "id": "knights-dm-3",
+          "authorId": "heinrich",
+          "text": "場所を聞いている",
+          "time": "14:02"
+        },
+        {
+          "id": "knights-dm-4",
+          "authorId": "oscar",
+          "text": "中庭のベンチ。ちゃんと敷地内じゃん",
+          "time": "14:03"
+        },
+        {
+          "id": "knights-dm-5",
+          "authorId": "heinrich",
+          "text": "休憩は十分と伝えたはずだ",
+          "time": "14:04"
+        },
+        {
+          "id": "knights-dm-6",
+          "authorId": "oscar",
+          "text": "十分に休むって意味かと思って",
+          "time": "14:05"
+        },
+        {
+          "id": "knights-dm-7",
+          "authorId": "heinrich",
+          "text": "言葉遊びをする余裕があるなら戻れ",
+          "time": "14:06"
+        },
+        {
+          "id": "knights-dm-8",
+          "authorId": "oscar",
+          "text": "はいはい。……水、持っていこうか",
+          "time": "14:07"
+        },
+        {
+          "id": "knights-dm-9",
+          "authorId": "heinrich",
+          "text": "人数分を頼む",
+          "time": "14:08"
+        },
+        {
+          "id": "knights-dm-10",
+          "authorId": "oscar",
+          "text": "そういうところは遠慮しないんだよね",
+          "time": "14:09"
+        },
+        {
+          "id": "knights-dm-11",
+          "authorId": "heinrich",
+          "text": "貴殿の分も忘れるな",
+          "time": "14:10"
+        },
+        {
+          "id": "knights-dm-12",
+          "authorId": "oscar",
+          "text": "了解。そっちこそ、俺が戻るまでに飲み干さないでよ",
+          "time": "14:11"
+        }
+      ]
+    }
+  ]
+}
